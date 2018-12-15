@@ -1,0 +1,19 @@
+ul {
+  list-style: none;
+}
+
+.container {
+  /* border: 1px solid gray; */
+  padding: 0px;
+  width: inherit;
+}
+
+img {
+  width: 360px;
+  height: 360px;
+}
+
+.heartRate {
+  font-size: 16pt;
+  color: red;
+}
